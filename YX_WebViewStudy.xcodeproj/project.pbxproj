@@ -13,6 +13,7 @@
 		2F130ABC1D59CFF20062B318 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F130ABA1D59CFF20062B318 /* Main.storyboard */; };
 		2F130ABE1D59CFF20062B318 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F130ABD1D59CFF20062B318 /* Assets.xcassets */; };
 		2F130AC11D59CFF20062B318 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F130ABF1D59CFF20062B318 /* LaunchScreen.storyboard */; };
+		2F130AC91D59D2430062B318 /* test.html in Resources */ = {isa = PBXBuildFile; fileRef = 2F130AC81D59D2430062B318 /* test.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2F130ABD1D59CFF20062B318 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F130AC01D59CFF20062B318 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F130AC21D59CFF20062B318 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F130AC81D59D2430062B318 /* test.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = test.html; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		2F130AB01D59CFF20062B318 /* YX_WebViewStudy */ = {
 			isa = PBXGroup;
 			children = (
+				2F130AC81D59D2430062B318 /* test.html */,
 				2F130AB41D59CFF20062B318 /* AppDelegate.h */,
 				2F130AB51D59CFF20062B318 /* AppDelegate.m */,
 				2F130AB71D59CFF20062B318 /* ViewController.h */,
@@ -136,6 +139,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2F130AC91D59D2430062B318 /* test.html in Resources */,
 				2F130AC11D59CFF20062B318 /* LaunchScreen.storyboard in Resources */,
 				2F130ABE1D59CFF20062B318 /* Assets.xcassets in Resources */,
 				2F130ABC1D59CFF20062B318 /* Main.storyboard in Resources */,
